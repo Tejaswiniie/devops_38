@@ -1,0 +1,2 @@
+Welcome to Devops lab
+We are learning about GitHub
